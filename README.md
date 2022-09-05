@@ -7,9 +7,14 @@
 <a href="https://packagist.org/packages/laravel/framework"><img src="https://img.shields.io/packagist/l/laravel/framework" alt="License"></a>
 </p>
 
-## About Laravel
 
-Laravel is a web application framework with expressive, elegant syntax. We believe development must be an enjoyable and creative experience to be truly fulfilling. Laravel takes the pain out of development by easing common tasks used in many web projects, such as:
+
+- dropzone
+- spatie media-library
+- Laravel
+
+#### PREVIEW
+![alt text](https://github.com/hassamulhaq/laravel-dropzone-media-demo/blob/main/public/preview_upload_multi_files_dropzone_laravel_gif.gif?raw=true)
 
 
 ## License
