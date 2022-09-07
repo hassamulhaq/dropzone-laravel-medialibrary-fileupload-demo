@@ -13,8 +13,7 @@
 - spatie media-library
 - Laravel
 
-Detailed article multiple files uploadusing dropzone and laravel-medialibrary package
-<a href="https://hassam.me/multiple-files-uploadusing-dropzone-and-laravel-medialibrary-package/">Multiple files uploadusing dropzone and laravel medialibrary package/</a>
+Detailed article: <a href="https://hassam.me/multiple-files-uploadusing-dropzone-and-laravel-medialibrary-package/">How to upload multiple files using dropzone and laravel medialibrary package/</a>
 
 #### PREVIEW
 ![alt text](https://github.com/hassamulhaq/laravel-dropzone-media-demo/blob/main/public/preview_upload_multi_files_dropzone_laravel_gif.gif?raw=true)
